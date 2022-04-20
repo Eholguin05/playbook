@@ -2,7 +2,7 @@ const issue = {
   title: "MyIssue",
   repositoryNameAssociated: "MyRepo",
   status: "Answered",
-  numberOfComments: 10,
+  numberOfComments: 8,
   labels: ["bug", "help wanted", "question"],
   author: "Emmanuel Holguin",
   dateCreated: "24/02/2022",
