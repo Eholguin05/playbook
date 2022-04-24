@@ -1,7 +1,5 @@
 # Weekly Mission 3
 
-# Weekly Mission 3
-
 Developed projects from the 3rd week:
 
 | Project          | Practice |                                                         Link al repo |
